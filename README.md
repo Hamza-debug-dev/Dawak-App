@@ -14,11 +14,11 @@ Add your screenshots inside a folder named `screenshots`, then update the image 
 
 | Home / Catalog | Medicine Search | Donation Flow |
 |---|---|---|
-| ![Home screen](./screenshots/home.png) | ![Medicine search](./screenshots/search.png) | ![Donation flow](./screenshots/donation.png) |
+| ![Home screen](./screenshots/home.jpeg) | ![Medicine search](./screenshots/medicine.jpeg) | ![Donation flow](./screenshots/donation.jpeg) |
 
 | Pharmacy Dashboard | Customer Experience |
 |---|---|
-| ![Pharmacy dashboard](./screenshots/pharmacy-dashboard.png) | ![Customer experience](./screenshots/customer.png) |
+| ![Pharmacy dashboard](./screenshots/pharmacy-dashboard.jpeg) | ![Customer experience](./screenshots/customer.jpeg) |
 
 ---
 
